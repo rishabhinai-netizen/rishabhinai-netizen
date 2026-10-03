@@ -49,7 +49,7 @@ Everything in this GitHub is a tool I built because I needed it, or because I sa
 ### 🚨 Aadhaar EWS
 **National Early Warning System for UIDAI**
 
-District-level operational risk detection using privacy-preserving aggregated analytics. Built for the UIDAI Data Hackathon 2026. Identifies districts quietly drifting toward risk — not just those already in crisis.
+District-level operational risk detection using privacy-preserving aggregated analytics. Built for the UIDAI Data Hackathon 2026.
 
 `Python` `Streamlit` `Geospatial` `Risk Analytics`
 
@@ -58,66 +58,38 @@ District-level operational risk detection using privacy-preserving aggregated an
 </td>
 <td width="50%" valign="top">
 
-### 📊 TradeAudit Pro
-**India's AI Trade Discipline Analyser**
-
-Upload your broker's derivatives export. Get FIFO P&L, STT-inclusive charge analysis, discipline scoring, and Groq-powered AI insights on your trading behaviour — in one shot.
-
-`Python` `Streamlit` `Groq AI` `FIFO Engine`
-
-[View repo →](https://github.com/rishabhinai-netizen/tradeaudit-pro-v2)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 RS + Quality Screener
-**NSE 500 Momentum + Fundamentals**
-
-O'Neil-style Relative Strength percentile ranking meets Buffett-style quality gates. Mansfield RS oscillator, multi-timeframe momentum, sector rotation signals, and Groq AI stock analysis.
-
-`Python` `Streamlit` `yfinance` `Groq`
-
-[View repo →](https://github.com/rishabhinai-netizen/RS-screener)
-
-</td>
-<td width="50%" valign="top">
-
-### 🕯️ DC Strategy Backtester
-**10 Donchian Channel Scenarios, NSE 500**
-
-Systematic backtesting of 10 DC variants — classic breakout, middle-line crosses, ML slope flips, RSI confirmation, full-stack combos — across the entire NSE 500 universe via Breeze API.
-
-`Python` `Streamlit` `Breeze API` `Backtesting`
-
-[View repo →](https://github.com/rishabhinai-netizen/dc-backtester)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 CFE Exam Mastery
-**Certified Fraud Examiner Prep Tool**
-
-Offline-capable PWA covering all four CFE domains — Financial Transactions, Law, Investigation, Fraud Prevention — with spaced repetition and performance tracking. A fraction of the cost of ACFE's official materials.
-
-`React` `TypeScript` `Supabase` `PWA`
-
-[View repo →](https://github.com/rishabhinai-netizen/CFEApp)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 ICAI AI Dashboard
 **AI Use Cases for Chartered Accountants**
 
-An interactive HTML dashboard cataloguing AI applications across statutory audit, fraud investigation, tax compliance, and advisory — built for ICAI CPE sessions and BFSI forum presentations.
+An interactive dashboard cataloguing AI applications across statutory audit, fraud investigation, tax compliance and advisory — built for ICAI CPE sessions.
 
 `HTML` `JavaScript` `Data Visualisation`
 
 [View repo →](https://github.com/rishabhinai-netizen/icai-ai-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 CFE Sprint
+**25-Day Certified Fraud Examiner Exam Engine**
+
+Mobile-first study app aligned to the three-section CFE blueprint, with optional progress sync across devices.
+
+`HTML` `JavaScript` `Supabase`
+
+[View repo →](https://github.com/rishabhinai-netizen/cfe-sprint)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Market research
+**Private research tools**
+
+NSE breakout research with probabilities that update over a trade's first week, and a cross-source fundamentals terminal. Kept private.
+
+`Python` `Statistics` `Walk-forward validation`
 
 </td>
 </tr>
